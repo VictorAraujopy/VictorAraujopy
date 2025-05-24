@@ -4,7 +4,7 @@
 🎓 Estudando Engenharia de Dados, Machine Learning e Deep Learning  
 🧠 Criador da assistente virtual **Octavus**, com comandos de voz e integração com IA  
 🚀 Em busca da minha primeira oportunidade profissional na área de tecnologia  
-🌐 Portfólio e projetos no meu GitHub: [github.com/VictorAraujopy](https://github.com/VictorAraujopy)
+
 
 ---
 
