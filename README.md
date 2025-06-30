@@ -9,7 +9,7 @@
 ---
 
 [![Victor Araujo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorAraujopy&show_icons=true&theme=dracula)](https://github.com/VictorAraujopy/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAraujopy&layout=compact&theme=dracula)](https://github.com/VictorAraujopy/github-readme-stats)
+
 
 ---
 
