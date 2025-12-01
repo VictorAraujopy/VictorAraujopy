@@ -24,11 +24,13 @@
   <img align="center" alt="Victor-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="Victor-Numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align="center" alt="Victor-Matplotlib" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg">
-  <img align="center" alt="Victor-Tensorflow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Victor-Scikitlearn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
   <br><br>
 
   <img align="center" alt="Victor-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Victor-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Victor-GCP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+  <br><br>
+  
+  <img align="center" alt="Victor-Scikitlearn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
+   <img align="center" alt="Victor-Tensorflow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 </div>
