@@ -1,9 +1,7 @@
 ### 👋 Olá! Eu sou o Victor Araujo
 
-💻 Desenvolvedor Júnior com foco em Python, SQL e Inteligência Artificial  
-🎓 Estudando Engenharia de Dados, Machine Learning e Deep Learning  
-🧠 Criador da assistente virtual **Octavus**, com comandos de voz e integração com IA  
-🚀 Em busca da minha primeira oportunidade profissional na área de tecnologia  
+💻 Desenvolvedor Júnior com foco em Python, automação e Inteligência Artificial  
+🎓 Estudando, Machine Learning, Deep Learning, RPA, SQL e Linux  
 
 
 ---
