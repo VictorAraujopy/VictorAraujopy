@@ -1,7 +1,7 @@
 ### 👋 Olá! Eu sou o Victor Araujo
 
 💻 Desenvolvedor com foco em Python, automação e Inteligência Artificial  
-🎓 Estudando, Machine Learning, Deep Learning, RPA, SQL e Linux  
+🎓 Estudando, Machine Learning, Deep Learning, Python, SQL e Linux  
 
 
 ---
