@@ -17,7 +17,7 @@
 
 ### Sobre
 
-Desenvolvedor Python com foco em IA aplicada e automação. Estudo Inteligência Artificial na FIAP e trabalho com RPA e agentes de IA em produção.
+Desenvolvedor Python com foco em IA aplicada e automação. Estudo Inteligência Artificial na FIAP e trabalho com RPA e agentes de IA.
 
 Hoje meu trabalho gira em torno de:
 
