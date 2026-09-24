@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/VictorAraujopy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=C8102E&center=true&vCenter=true&width=560&lines=RPA+e+automa%C3%A7%C3%A3o;Back-end+em+TypeScript;Agentes+de+IA;LLMs+locais+e+LoRA;Machine+Learning;Sempre+um+passo+%C3%A0+frente." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=C8102E&center=true&vCenter=true&width=560&repeat=false&lines=Sempre+um+passo+%C3%A0+frente." alt="Typing SVG"/>
   </a>
 </p>
 
