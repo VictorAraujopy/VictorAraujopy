@@ -13,13 +13,14 @@
 
 ### Sobre
 
-Desenvolvedor Python com foco em IA aplicada e automação. Estudo Inteligência Artificial na FIAP e trabalho com RPA e agentes de IA.
+Desenvolvedor com foco em IA aplicada, automação e back-end, principalmente em Python e TypeScript. Estudo Inteligência Artificial na FIAP e trabalho com RPA e agentes de IA.
 
 Hoje meu trabalho gira em torno de:
 
 - **Agentes com LLM** que usam ferramentas, combinando regras determinísticas com o modelo e travas de segurança
 - **LLMs locais** (llama.cpp, MLX) e fine-tuning com LoRA
 - **Automação e RPA** com Selenium, scraping e bots isolados em Docker, acompanhados por dashboards de monitoramento
+- **Back-end em TypeScript** de um aplicativo: APIs e regras de negócio
 - **Machine Learning**, da coleta e modelagem até a API: scikit-learn, Prophet, YOLOv8
 
 ---
