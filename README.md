@@ -20,7 +20,7 @@ Hoje meu trabalho gira em torno de:
 - **Agentes com LLM** que usam ferramentas, combinando regras determinísticas com o modelo e travas de segurança
 - **LLMs locais** (llama.cpp, MLX) e fine-tuning com LoRA
 - **Automação e RPA** com Selenium, scraping e bots isolados em Docker, acompanhados por dashboards de monitoramento
-- **Back-end em TypeScript** de um aplicativo: APIs e regras de negócio
+- **Back-end em TypeScript** de um aplicativo Android feito em React Native: APIs e regras de negócio
 - **Machine Learning**, da coleta e modelagem até a API: scikit-learn, Prophet, YOLOv8
 
 ---
