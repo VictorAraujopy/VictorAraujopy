@@ -15,31 +15,20 @@
 
 ---
 
-### 👋 Sobre mim
+### Sobre
 
-Desenvolvedor Python focado em **IA aplicada, agentes com LLM e automação**. Estudo Inteligência Artificial na FIAP e trabalho com RPA e agentes rodando em produção.
+Desenvolvedor Python com foco em IA aplicada e automação. Estudo Inteligência Artificial na FIAP e trabalho com RPA e agentes de IA em produção.
 
-- 🤖 Construo **agentes com LLM** que chamam ferramentas, com classificação híbrida (regras + LLM) e travas de segurança
-- 🧠 Rodo **LLMs locais** (llama.cpp / MLX) e treino **adaptadores LoRA** para personalidade própria
-- ⚙️ Automatizo processos com **Selenium, scraping e bots em Docker**, monitorados por dashboards
-- 📊 Levo **Machine Learning** do dado ao deploy: scikit-learn, Prophet, Isolation Forest, YOLOv8
-- 🌱 Já passei por agritech, saúde, IoT com ESP32 e sensoriamento remoto (NDVI via satélite)
+Hoje meu trabalho gira em torno de:
 
----
-
-### 🔴 Projetos em destaque
-
-| Projeto | O que é | Stack |
-|---|---|---|
-| **[ada](https://github.com/VictorAraujopy/ada)** | IA pessoal 100% offline no Mac: Qwen local com adaptador LoRA próprio, 19 ferramentas do macOS encadeadas pelo modelo e chat web com streaming | `llama.cpp` `MLX` `FastAPI` `SSE` `SQLite` |
-| **[price-monitor](https://github.com/VictorAraujopy/price-monitor)** | Monitor de preços com 5 microsserviços: scraper → PostgreSQL → detecção de anomalias e previsão → API + alertas no Discord | `Docker Compose` `Prophet` `Isolation Forest` `FastAPI` `PostgreSQL` |
-| **[Parametrizer](https://github.com/VictorAraujopy/AutomacaoBettaSelenium)** | RPA para cliente real que configura em massa um sistema legado: mapeia IDs em modo só-leitura antes de escrever (~90% menos tempo) | `Selenium` `pandas` `Excel` |
-| **[FarmTech Solutions](https://github.com/VictorAraujopy/farmtech-solution-fase7)** | Plataforma agritech (em grupo): sensores ESP32, previsão de irrigação, detecção de pragas com YOLOv8 e alertas na AWS | `Streamlit` `scikit-learn` `YOLOv8` `AWS Lambda/SNS` `ESP32` |
-| **[Finance App](https://github.com/VictorAraujopy/Finance-app)** | App de finanças (em equipe). Minha parte: camada de insights com LLM multi-provedor e saída JSON validada | `Flask` `Pydantic` `Claude` `Kimi-K2` |
+- **Agentes com LLM** que usam ferramentas, combinando regras determinísticas com o modelo e travas de segurança
+- **LLMs locais** (llama.cpp, MLX) e fine-tuning com LoRA
+- **Automação e RPA** com Selenium, scraping e bots isolados em Docker, acompanhados por dashboards de monitoramento
+- **Machine Learning**, da coleta e modelagem até a API: scikit-learn, Prophet, YOLOv8
 
 ---
 
-### 🧰 Stack
+### Stack
 
 **Linguagens e back-end**
 
