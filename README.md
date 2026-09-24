@@ -9,10 +9,9 @@
   </a>
 </p>
 
-<!--
-  GIF opcional: salve o arquivo em assets/ada.gif e descomente o bloco abaixo.
-  <p align="center"><img src="assets/ada.gif" width="320" alt="Ada Wong"/></p>
--->
+<p align="center">
+  <img src="https://media1.tenor.com/m/UwPvmxjtm-wAAAAd/ada-wong.gif" width="320" alt="Ada Wong"/>
+</p>
 
 ---
 
