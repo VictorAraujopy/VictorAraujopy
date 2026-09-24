@@ -9,10 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/UwPvmxjtm-wAAAAd/ada-wong.gif" width="320" alt="Ada Wong"/>
-</p>
-
 ---
 
 ### Sobre
@@ -60,6 +56,10 @@ Hoje meu trabalho gira em torno de:
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorAraujopy&theme=github_dark" alt="GitHub stats"/>
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorAraujopy&theme=github_dark" alt="Linguagens mais usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/UwPvmxjtm-wAAAAd/ada-wong.gif" width="180" alt="Ada Wong"/>
 </p>
 
 <p align="center">
