@@ -1,11 +1,11 @@
 <!-- Cabeçalho em vermelho e preto, inspirado na Ada Wong -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:c8102e&height=180&section=header&text=Victor%20Araujo&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=IA%20%E2%80%A2%20Agentes%20%E2%80%A2%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=18" alt="Victor Araujo" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:c8102e&height=180&section=header&text=Victor%20Araujo&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=RPA%20%E2%80%A2%20Back-end%20%E2%80%A2%20Agentes%20de%20IA&descAlignY=58&descSize=18" alt="Victor Araujo" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/VictorAraujopy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=C8102E&center=true&vCenter=true&width=560&lines=LLMs+locais+%2B+fine-tuning+LoRA;Agentes+de+IA;RPA+e+automa%C3%A7%C3%A3o;Machine+Learning;Sempre+um+passo+%C3%A0+frente." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=C8102E&center=true&vCenter=true&width=560&lines=RPA+e+automa%C3%A7%C3%A3o;Back-end+em+TypeScript;Agentes+de+IA;LLMs+locais+e+LoRA;Machine+Learning;Sempre+um+passo+%C3%A0+frente." alt="Typing SVG"/>
   </a>
 </p>
 
@@ -13,24 +13,27 @@
 
 ### Sobre
 
-Desenvolvedor com foco em IA aplicada, automação e back-end, principalmente em Python e TypeScript. Estudo Inteligência Artificial na FIAP e trabalho com RPA e agentes de IA.
+Desenvolvedor Python e TypeScript. Estudo Inteligência Artificial na FIAP e trabalho com RPA, desenvolvimento back-end e agentes de IA.
 
-Hoje meu trabalho gira em torno de:
+**No trabalho**
 
-- **Agentes com LLM** que usam ferramentas, combinando regras determinísticas com o modelo e travas de segurança
-- **LLMs locais** (llama.cpp, MLX) e fine-tuning com LoRA
-- **Automação e RPA** com Selenium, scraping e bots isolados em Docker, acompanhados por dashboards de monitoramento
+- **RPA e automação** com Selenium, scraping e bots em Docker, além de dashboards de monitoramento
 - **Back-end em TypeScript** de um aplicativo Android feito em React Native: APIs e regras de negócio
-- **Machine Learning**, da coleta e modelagem até a API: scikit-learn, Prophet, YOLOv8
+- **Agentes de IA** que usam ferramentas, combinando regras fixas com LLM
+
+**Em projetos pessoais e na faculdade**
+
+- **LLMs locais** (llama.cpp, MLX) e fine-tuning com LoRA
+- **Machine Learning** com scikit-learn, Prophet e YOLOv8
 
 ---
 
 ### Stack
 
-**Linguagens e back-end**
+**Linguagens e frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,r,bash,fastapi,flask,nextjs,react,tailwind&theme=dark" alt="Linguagens e back-end"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,r,bash,fastapi,flask,nextjs,react,tailwind&theme=dark" alt="Linguagens e frameworks"/>
 </p>
 
 **Dados, infra e automação**
