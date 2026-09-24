@@ -58,12 +58,8 @@ Hoje meu trabalho gira em torno de:
 ---
 
 <p align="center">
-  <a href="https://github.com/VictorAraujopy">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorAraujopy&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c8102e&icon_color=c8102e&text_color=e6e6e6" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/VictorAraujopy">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAraujopy&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c8102e&text_color=e6e6e6" alt="Top languages"/>
-  </a>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorAraujopy&theme=github_dark" alt="GitHub stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorAraujopy&theme=github_dark" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
