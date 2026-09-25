@@ -15,8 +15,6 @@
 
 <h3>Sobre</h3>
 
-<p>Desenvolvedor Python e TypeScript. Estudo Inteligência Artificial na FIAP<br>e trabalho com RPA, desenvolvimento back-end e agentes de IA.</p>
-
 <p><b>RPA e automação</b> com Selenium, scraping e bots em Docker, além de dashboards de monitoramento<br>
 <b>Back-end em TypeScript</b> de um aplicativo Android feito em React Native: APIs e regras de negócio<br>
 <b>Agentes de IA</b> que usam ferramentas, combinando regras fixas com LLM<br>
