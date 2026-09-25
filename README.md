@@ -11,39 +11,40 @@
 
 ---
 
-### Sobre
+<div align="center">
 
-Desenvolvedor Python e TypeScript. Estudo Inteligência Artificial na FIAP e trabalho com RPA, desenvolvimento back-end e agentes de IA.
+<h3>Sobre</h3>
 
-**No trabalho**
+<p>Desenvolvedor Python e TypeScript. Estudo Inteligência Artificial na FIAP<br>e trabalho com RPA, desenvolvimento back-end e agentes de IA.</p>
 
-- **RPA e automação** com Selenium, scraping e bots em Docker, além de dashboards de monitoramento
-- **Back-end em TypeScript** de um aplicativo Android feito em React Native: APIs e regras de negócio
-- **Agentes de IA** que usam ferramentas, combinando regras fixas com LLM
+<p><b>No trabalho</b><br>
+<b>RPA e automação</b> com Selenium, scraping e bots em Docker, além de dashboards de monitoramento<br>
+<b>Back-end em TypeScript</b> de um aplicativo Android feito em React Native: APIs e regras de negócio<br>
+<b>Agentes de IA</b> que usam ferramentas, combinando regras fixas com LLM</p>
 
-**Em projetos pessoais e na faculdade**
+<p><b>Em projetos pessoais e na faculdade</b><br>
+<b>LLMs locais</b> (llama.cpp, MLX) e fine-tuning com LoRA<br>
+<b>Machine Learning</b> com scikit-learn, Prophet e YOLOv8</p>
 
-- **LLMs locais** (llama.cpp, MLX) e fine-tuning com LoRA
-- **Machine Learning** com scikit-learn, Prophet e YOLOv8
+</div>
 
 ---
 
-### Stack
+<div align="center">
 
-**Linguagens e frameworks**
+<h3>Stack</h3>
 
+<p><b>Linguagens e frameworks</b></p>
 <p>
   <img src="https://skillicons.dev/icons?i=py,ts,js,r,bash,fastapi,flask,nextjs,react,tailwind&theme=dark" alt="Linguagens e frameworks"/>
 </p>
 
-**Dados, infra e automação**
-
+<p><b>Dados, infra e automação</b></p>
 <p>
   <img src="https://skillicons.dev/icons?i=sklearn,postgres,sqlite,docker,aws,grafana,selenium,arduino,linux,git&theme=dark" alt="Dados, infra e automação"/>
 </p>
 
-**IA e LLMs**
-
+<p><b>IA e LLMs</b></p>
 <p>
   <img src="https://img.shields.io/badge/llama.cpp-0d0d0d?style=for-the-badge&logoColor=white" alt="llama.cpp"/>
   <img src="https://img.shields.io/badge/MLX-0d0d0d?style=for-the-badge&logo=apple&logoColor=white" alt="MLX"/>
@@ -54,6 +55,8 @@ Desenvolvedor Python e TypeScript. Estudo Inteligência Artificial na FIAP e tra
   <img src="https://img.shields.io/badge/Prophet-0d0d0d?style=for-the-badge" alt="Prophet"/>
   <img src="https://img.shields.io/badge/YOLOv8-c8102e?style=for-the-badge" alt="YOLOv8"/>
 </p>
+
+</div>
 
 ---
 
