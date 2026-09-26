@@ -1,11 +1,11 @@
-<!-- Cabeçalho em vermelho e preto, inspirado na Ada Wong -->
+<!-- Red and black header, inspired by Ada Wong -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:c8102e&height=180&section=header&text=Victor%20Araujo&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=RPA%20%E2%80%A2%20Back-end%20%E2%80%A2%20Agentes%20de%20IA&descAlignY=58&descSize=18" alt="Victor Araujo" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:c8102e&height=180&section=header&text=Victor%20Araujo&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=RPA%20%E2%80%A2%20Back-end%20%E2%80%A2%20AI%20Agents&descAlignY=58&descSize=18" alt="Victor Araujo" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/VictorAraujopy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=C8102E&center=true&vCenter=true&width=560&repeat=false&lines=Sempre+um+passo+%C3%A0+frente." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=C8102E&center=true&vCenter=true&width=560&repeat=false&lines=Always+one+step+ahead." alt="Typing SVG"/>
   </a>
 </p>
 
@@ -13,13 +13,13 @@
 
 <div align="center">
 
-<h3>Sobre</h3>
+<h3>About</h3>
 
-<p><b>RPA e automação</b> com Selenium, scraping e bots em Docker, além de dashboards de monitoramento<br>
-<b>Back-end em TypeScript</b> de um aplicativo Android feito em React Native: APIs e regras de negócio<br>
-<b>Agentes de IA</b> que usam ferramentas, combinando regras fixas com LLM<br>
-<b>LLMs locais</b> (llama.cpp, MLX) e fine-tuning com LoRA<br>
-<b>Machine Learning</b> com scikit-learn, Prophet e YOLOv8</p>
+<p><b>RPA and automation</b> with Selenium, web scraping and Dockerized bots, plus monitoring dashboards<br>
+<b>TypeScript back-end</b> for an Android app built with React Native: APIs and business logic<br>
+<b>AI agents</b> with tool calling, combining rule-based logic with LLMs<br>
+<b>Local LLMs</b> (llama.cpp, MLX) and LoRA fine-tuning<br>
+<b>Machine Learning</b> with scikit-learn, Prophet and YOLOv8</p>
 
 </div>
 
@@ -29,17 +29,17 @@
 
 <h3>Stack</h3>
 
-<p><b>Linguagens e frameworks</b></p>
+<p><b>Languages and frameworks</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,r,bash,fastapi,flask,nextjs,react,tailwind&theme=dark" alt="Linguagens e frameworks"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,r,bash,fastapi,flask,nextjs,react,tailwind&theme=dark" alt="Languages and frameworks"/>
 </p>
 
-<p><b>Dados, infra e automação</b></p>
+<p><b>Data, infrastructure and automation</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,postgres,sqlite,docker,aws,grafana,selenium,arduino,linux,git&theme=dark" alt="Dados, infra e automação"/>
+  <img src="https://skillicons.dev/icons?i=sklearn,postgres,sqlite,docker,aws,grafana,selenium,arduino,linux,git&theme=dark" alt="Data, infrastructure and automation"/>
 </p>
 
-<p><b>IA e LLMs</b></p>
+<p><b>AI and LLMs</b></p>
 <p>
   <img src="https://img.shields.io/badge/llama.cpp-0d0d0d?style=for-the-badge&logoColor=white" alt="llama.cpp"/>
   <img src="https://img.shields.io/badge/MLX-0d0d0d?style=for-the-badge&logo=apple&logoColor=white" alt="MLX"/>
@@ -57,7 +57,7 @@
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorAraujopy&theme=github_dark" alt="GitHub stats"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorAraujopy&theme=github_dark" alt="Linguagens mais usadas"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorAraujopy&theme=github_dark" alt="Most used languages"/>
 </p>
 
 <p align="center">
