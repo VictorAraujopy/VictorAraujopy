@@ -14,7 +14,7 @@
 <b>TypeScript back-end</b> for an Android app built with React Native: APIs and business logic<br>
 <b>AI agents</b> with tool calling, combining rule-based logic with LLMs<br>
 <b>Local LLMs</b> (llama.cpp, MLX) and LoRA fine-tuning<br>
-<b>Machine Learning</b> with scikit-learn, Prophet and YOLOv8</p>
+<b>Pytorch|Machine Learning</b> with scikit-learn, Prophet and YOLOv8</p>
 
 </div>
 
