@@ -14,7 +14,8 @@
 <b>TypeScript back-end</b> for an Android app built with React Native: APIs and business logic<br>
 <b>AI agents</b> with tool calling, combining rule-based logic with LLMs<br>
 <b>Local LLMs</b> (llama.cpp, MLX) and LoRA fine-tuning<br>
-<b>Pytorch|Machine Learning</b> with scikit-learn, Prophet and YOLOv8</p>
+<b>Neural networks in PyTorch</b>: reinforcement learning with PPO written from scratch (<a href="https://github.com/VictorAraujopy/little_octavus">Octavus</a>)<br>
+<b>Machine Learning</b> with scikit-learn, Prophet and YOLOv8</p>
 
 </div>
 
@@ -36,6 +37,9 @@
 
 <p><b>AI and LLMs</b></p>
 <p>
+  <img src="https://img.shields.io/badge/PyTorch-c8102e?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Neural%20Networks-0d0d0d?style=for-the-badge" alt="Neural Networks"/>
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-c8102e?style=for-the-badge" alt="Reinforcement Learning"/>
   <img src="https://img.shields.io/badge/llama.cpp-0d0d0d?style=for-the-badge&logoColor=white" alt="llama.cpp"/>
   <img src="https://img.shields.io/badge/MLX-0d0d0d?style=for-the-badge&logo=apple&logoColor=white" alt="MLX"/>
   <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-c8102e?style=for-the-badge" alt="LoRA"/>
