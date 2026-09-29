@@ -16,7 +16,7 @@
 <b>Local LLMs</b> (llama.cpp, MLX) and LoRA fine-tuning<br>
 <b>Neural networks in PyTorch</b>: reinforcement learning with PPO written from scratch (<a href="https://github.com/VictorAraujopy/little_octavus">Octavus</a>)<br>
 <b>Machine Learning</b> with scikit-learn, Prophet and YOLOv8<br>
-<b>Open source</b>: contributor to <a href="https://github.com/TransformerLensOrg/TransformerLens">TransformerLens</a>, with a merged fix to sparse probing (<a href="https://github.com/TransformerLensOrg/TransformerLens/pull/1827">#1827</a>)</p>
+<b>Open source</b>: contributor to <a href="https://github.com/TransformerLensOrg/TransformerLens">TransformerLens</a> (<a href="https://github.com/TransformerLensOrg/TransformerLens/pulls?q=is%3Apr+is%3Amerged+author%3AVictorAraujopy">merged PRs</a>)</p>
 
 </div>
 
