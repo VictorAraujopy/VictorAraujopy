@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:c8102e&height=180&section=header&text=Victor%20Araujo&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=RPA%20%E2%80%A2%20Back-end%20%E2%80%A2%20AI%20Agents&descAlignY=58&descSize=18" alt="Victor Araujo" width="100%"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/VictorAraujopy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=C8102E&center=true&vCenter=true&width=560&repeat=false&lines=Always+one+step+ahead." alt="Typing SVG"/>
-  </a>
-</p>
 
 ---
 
